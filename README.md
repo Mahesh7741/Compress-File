@@ -3,8 +3,13 @@
 ## Overview
 Rust File Compressor is a web application that allows users to compress files efficiently using a Rust-powered backend and a sleek, modern frontend.
 
+# Step 1:
 ![Rust File Compressor UI 1](Assets/Screenshot%202024-11-26%20194419.png)
+
+# Step 2:
 ![Rust File Compressor UI 2](Assets/Screenshot%202024-11-26%20194339.png)
+
+# Step 3:
 ![Rust File Compressor UI 3](Assets/Screenshot%202024-11-26%20194356.png)
 
 ## Features ✨
@@ -106,7 +111,7 @@ MIT License
 
 ## Contact 📧
 - Mahesh Pal
-- Email: maheshpal7741@gmail.com
+- Email: maheshsavant8799@gmail.com
 - Project Link: https://github.com/Mahesh7741/Compress-File
 
 ---
