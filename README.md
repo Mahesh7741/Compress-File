@@ -4,6 +4,8 @@
 Rust File Compressor is a web application that allows users to compress files efficiently using a Rust-powered backend and a sleek, modern frontend.
 
 ![Rust File Compressor UI](https://via.placeholder.com/800x500.png?text=Rust+File+Compressor+Screenshot)
+![Rust File Compressor UI](https://via.placeholder.com/800x500.png?text=Rust+File+Compressor+Screenshot)
+![Rust File Compressor UI](https://via.placeholder.com/800x500.png?text=Rust+File+Compressor+Screenshot)
 
 ## Features ✨
 - 📁 File compression with adjustable compression levels
@@ -44,8 +46,8 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 2. Clone the repository
 ```bash
-git clone https://github.com/yourusername/rust-file-compressor.git
-cd rust-file-compressor
+git clone https://github.com/Mahesh7741/Compress-File.git
+cd Compress-File
 ```
 
 3. Build the project
@@ -105,7 +107,7 @@ MIT License
 ## Contact 📧
 - Your Name
 - Email: your.email@example.com
-- Project Link: https://github.com/yourusername/rust-file-compressor
+- Project Link: https://github.com/Mahesh7741/Compress-File
 
 ---
 
